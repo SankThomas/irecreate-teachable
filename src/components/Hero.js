@@ -45,8 +45,8 @@ export default function Hero() {
         <article className="lg:flex-1 -mb-5 lg:-mb-20">
           <Image
             src={hero}
-            width="auto"
-            height="auto"
+            width={500}
+            height={500}
             alt="Share what you know"
           />
         </article>
