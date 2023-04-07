@@ -36,8 +36,8 @@ export default function Hero() {
             </article>
 
             <small className="text-xs block">
-              *By submitting your email address, you agree to Teachable's Terms
-              of use and Privacy Policy.
+              *By submitting your email address, you agree to Teachable&&apos;s
+              Terms of use and Privacy Policy.
             </small>
           </form>
         </article>

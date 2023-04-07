@@ -17,7 +17,7 @@ export default function Join() {
             }}
             className="text-4xl lg:text-5xl mb-10"
           >
-            Join more than 100,000 creators who’ve sold over $1 billion in
+            Join more than 100,000 creators who&apos;ve sold over $1 billion in
             courses and coaching.
           </h2>
           <button
@@ -55,8 +55,8 @@ export default function Join() {
             Easy as it gets.
           </h3>
           <p className="dark-green">
-            In a matter of minutes, you’ll have access to everything you could
-            ever need to create and sell online courses and coaching—our
+            In a matter of minutes, you&apos;ll have access to everything you
+            could ever need to create and sell online courses and coaching—our
             stress-free platform makes it easy—tech skills or no tech skills.
           </p>
         </article>
@@ -82,8 +82,8 @@ export default function Join() {
             Teach the way you want to learn.
           </h3>
           <p className="dark-green">
-            This is the fun part. Show off your brand’s unique POV by using our
-            customization tools to curate and personalize your content.
+            This is the fun part. Show off your brand&apos;s unique POV by using
+            our customization tools to curate and personalize your content.
           </p>
         </article>
 

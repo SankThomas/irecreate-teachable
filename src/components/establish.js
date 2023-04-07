@@ -14,7 +14,7 @@ export default function Establish() {
         <div className="max-w-6xl mx-auto grid grid-cols-1 items-center gap-10 lg:grid-cols-2 lg:gap-16">
           <article className="dark-green">
             <h2 className="text-4xl lg:text-5xl mb-10">
-              Establish your business's hub on Teachable
+              Establish your business&apos;s hub on Teachable
             </h2>
             <p className="mb-10">
               In this free mini course, learn how to showcase your business and
