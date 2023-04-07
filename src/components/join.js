@@ -108,9 +108,9 @@ export default function Join() {
             The small matter of getting paid.
           </h3>
           <p className="dark-green">
-            You didn't go into business to stress over money (quite the
-            opposite) so we've got that covered. Payouts, taxes, affiliates,
-            authors, that's our thing—you do yours.
+            You didn&apos;t go into business to stress over money (quite the
+            opposite) so we&apos;ve got that covered. Payouts, taxes,
+            affiliates, authors, that&apos;s our thing—you do yours.
           </p>
         </article>
       </section>
