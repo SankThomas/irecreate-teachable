@@ -27,8 +27,8 @@ export default function Pottery() {
 
             <Image
               src={pottery}
-              width="auto"
-              height="auto"
+              width={768}
+              height={768}
               alt="Teachable Online Courses Promo Video"
             />
           </article>
